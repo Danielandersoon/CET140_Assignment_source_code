@@ -4,15 +4,15 @@
 The solution takes *.nii (NIFTI) images as the input for the fMRI and *.bdf as the input type for the EEG data
 These should be as such relative to the source directory
 
-/
-├─ Source/
-├─ Datasets/
-│  ├─ MRI/
-│  │  ├─ HC/
-│  │  ├─ PD/
-│  ├─ EEG/
-│  │  ├─ HC/
-│  │  ├─ PD/
+/</br>
+├─ Source/</br>
+├─ Datasets/</br>
+│  ├─ MRI/</br>
+│  │  ├─ HC/</br>
+│  │  ├─ PD/</br>
+│  ├─ EEG/</br>
+│  │  ├─ HC/</br>
+│  │  ├─ PD/</br>
 
 Dependencies:
 you will need the following pip packages:
